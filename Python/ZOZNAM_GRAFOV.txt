@@ -1,0 +1,33 @@
+Zoznam grafov:
+
+benchmark grafy:
+názov grafu - (počet vrcholov grafu, chromatické číslo)
+https://mat.tepper.cmu.edu/COLOR/instances.html#XXDSJ
+
+queen5_5   	- (25,5)
+queen6_6   	- (36,7)
+queen7_7   	- (49,7)
+queen8_8   	- (64,9)
+queen9_9   	- (81,10)
+queen11_11 	- (121,11)
+queen15_15 	- (225,?)
+david      	- (87,11)
+myciel3   	- (11,4)
+myciel4    	- (23,5)
+myciel6    	- (95,7) 
+myciel7    	- (191,8)
+flat300_28_0 	- (300,28)
+flat1000_76_0 	- (1000,76)
+le450_5c 	- (450,5)
+le450_25b 	- (450,25)
+mile1500 	- (128,73)
+*****************************************
+Ďalšie grafy:
+bip - biparitný graf
+klikatest  - graf s 10 vrcholmi
+krizovatka - graf svetelnej križovatky
+random - graf s 30 vrcholmi
+tree - stromový graf
+sudoku - graf sudoku tabuľky 4x4
+sabina - graf s 6 vrcholmi
+peterson - graf s 10 vrcholmi
