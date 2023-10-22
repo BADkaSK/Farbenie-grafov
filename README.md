@@ -1,2 +1,2 @@
-# Farbenie-grafov
-This is my diploma thesis. Graph coloring is a branch of graph theory and it's described as assigning colors to verteces in a way, that no adjacent verteces have the same color. 
+# Graph coloring and clique
+This is my diploma thesis. Graph coloring is a branch of graph theory and it's described as assigning colors to verteces in a way, that no adjacent verteces have the same color. Finding a maximal clique in a graph is also a very important problem, closely related to graph coloring. The optimal problem of graph coloring would be finding a minimal number of colors needed to color a graph, but this problem is NP-complete and yet there is no algorithm that could do that in a real time. All known and used algorithms for this problem are stochastic, heuristic or optimalistic.
